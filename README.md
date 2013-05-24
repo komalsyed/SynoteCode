@@ -2,7 +2,8 @@ SynoteCode
 ==========
 Dear All
 
-I am emailing you the following relevant files for Synote. They are to be replaced in their respective given locations:
+I am checking in the following relevant files for Synote. They are to be replaced in their respective given locations in order for the 
+extension for Synotes to run:
 
  
  
